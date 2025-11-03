@@ -1,12 +1,12 @@
 // TODO: Replace with your Firebase config later
 const firebaseConfig = {
-    apiKey: "AIzaSyAWuFuG120Xab2Ev64I8wNv3tTIBKtrpPw",
-    authDomain: "copper-triumph-332605.firebaseapp.com",
-    databaseURL: "https://demo.firebaseio.com",
-    projectId: "copper-triumph-332605",
-    storageBucket: "copper-triumph-332605.firebasestorage.app",
-    messagingSenderId: "591607114664",
-    appId: "1:591607114664:web:3faf538edfe6d3715a8b9d"
+    apiKey: "AIzaSyDJXwqQOdTKflJ5IL_8M-aQv0x3tkksXns",
+  authDomain: "student-light-controller.firebaseapp.com",
+  projectId: "student-light-controller",
+  storageBucket: "student-light-controller.firebasestorage.app",
+  messagingSenderId: "939189427217",
+  appId: "1:939189427217:web:91277522c6efb7dc3725b0",
+  measurementId: "G-5XEX05C2PD"
 };
 
 
